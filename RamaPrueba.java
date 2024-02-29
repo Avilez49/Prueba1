@@ -6,6 +6,7 @@ public class RamaPrueba {
 		// TODO Auto-generated method stub
 
 		System.out.println("Ola Rama");
+		System.out.println("Prueba con la ramita");
 		
 	}
 
